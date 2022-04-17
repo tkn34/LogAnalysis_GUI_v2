@@ -1,0 +1,37 @@
+Resource,message_time,title,service info,message,create user,create datetime
+BGL,2005/6/11 17:42,BGL1,-,RAS KERNEL FATAL data TLB error interrupt,-,2005/6/11 17:42
+BGL,2005/6/11 22:29,BGL2,-,RAS KERNEL FATAL data TLB error interrupt,-,2005/6/11 22:29
+BGL,2005/6/13 17:41,BGL3,-,RAS KERNEL FATAL data storage interrupt,-,2005/6/13 17:41
+BGL,2005/11/26 4:48,BGL4,-,"RAS APP FATAL ciod: Error reading message prefix on CioStream socket to 172.16.96.116:60243, Link has been severed",-,2005/11/26 4:48
+BGL,2005/6/11 19:39,BGL5,-,RAS KERNEL FATAL data TLB error interrupt,-,2005/6/11 19:39
+BGL,2005/11/24 9:38,BGL6,-,"RAS APP FATAL ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41534, Link has been severed",-,2005/11/24 9:38
+BGL,2005/6/11 19:33,BGL7,-,RAS KERNEL FATAL data TLB error interrupt,-,2005/6/11 19:33
+Apache,2005/12/5 13:39,Apache1,-,mod_jk child workerEnv in error state 6,-,2005/12/5 13:39
+Apache,2005/12/4 19:56,Apache2,-,mod_jk child workerEnv in error state 6,-,2005/12/4 19:56
+Apache,2005/12/5 10:43,Apache3,-,mod_jk child workerEnv in error state 7,-,2005/12/5 10:43
+Apache,2005/12/4 6:58,Apache4,-,mod_jk child workerEnv in error state 6,-,2005/12/4 6:58
+Apache,2005/12/4 6:49,Apache5,-,mod_jk child workerEnv in error state 8,-,2005/12/4 6:49
+Apache,2005/12/4 20:16,Apache6,-,mod_jk child workerEnv in error state 6,-,2005/12/4 20:16
+Apache,2005/12/4 14:29,Apache7,-,[client 4.245.93.87] Directory index forbidden by rule: /var/www/html/,-,2005/12/4 14:29
+Apache,2005/12/5 7:57,Apache8,-,mod_jk child workerEnv in error state 8,-,2005/12/5 7:57
+Apache,2005/12/4 20:47,Apache9,-,jk2_init() Can't find child 2086 in scoreboard,-,2005/12/4 20:47
+Apache,2005/12/5 4:14,Apache10,-,mod_jk child workerEnv in error state 9,-,2005/12/5 4:14
+Apache,2005/12/5 13:39,Apache11,-,mod_jk child workerEnv in error state 8,-,2005/12/5 13:39
+Apache,2005/12/4 6:43,Apache12,-,mod_jk child workerEnv in error state 6,-,2005/12/4 6:43
+Apache,2005/12/5 7:47,Apache13,-,mod_jk child workerEnv in error state 8,-,2005/12/5 7:47
+Apache,2005/12/4 20:47,Apache14,-,mod_jk child init 1 -2,-,2005/12/4 20:47
+Apache,2005/12/4 6:51,Apache15,-,mod_jk child workerEnv in error state 7,-,2005/12/4 6:51
+Apache,2005/12/5 10:38,Apache16,-,mod_jk child workerEnv in error state 7,-,2005/12/5 10:38
+Apache,2005/12/4 20:22,Apache17,-,mod_jk child workerEnv in error state 7,-,2005/12/4 20:22
+Apache,2005/12/5 18:35,Apache18,-,mod_jk child workerEnv in error state 6,-,2005/12/5 18:35
+Apache,2005/12/5 7:32,Apache19,-,mod_jk child workerEnv in error state 6,-,2005/12/5 7:32
+Apache,2005/12/5 10:47,Apache20,-,mod_jk child workerEnv in error state 6,-,2005/12/5 10:47
+Apache,2005/12/4 5:15,Apache21,-,[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,-,2005/12/4 5:15
+Apache,2005/12/5 4:14,Apache22,-,mod_jk child workerEnv in error state 8,-,2005/12/5 4:14
+Apache,2005/12/5 15:51,Apache23,-,mod_jk child workerEnv in error state 6,-,2005/12/5 15:51
+Apache,2005/12/4 6:41,Apache24,-,mod_jk child workerEnv in error state 6,-,2005/12/4 6:41
+Apache,2005/12/4 19:36,Apache25,-,mod_jk child workerEnv in error state 6,-,2005/12/4 19:36
+Apache,2005/12/5 7:37,Apache26,-,mod_jk child workerEnv in error state 6,-,2005/12/5 7:37
+Apache,2005/12/4 19:46,Apache27,-,mod_jk child workerEnv in error state 6,-,2005/12/4 19:46
+Apache,2005/12/5 13:00,Apache28,-,mod_jk child workerEnv in error state 6,-,2005/12/5 13:00
+Apache,2005/12/5 7:57,Apache29,-,mod_jk child workerEnv in error state 6,-,2005/12/5 7:57
